@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **calWoolgar/calWoolgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 ![I'm Cal Woolgar](https://github.com/calWoolgar/calWoolgar/blob/master/assets/readme_img.jpg)
 
 <p align="center">
-  <a href="http://calwoolgar.tech/"><img src="https://img.icons8.com/nolan/64/blog.png"/></a>
+  <a href="https://calwoolgar.tech/"><img src="https://img.icons8.com/nolan/64/blog.png"/></a>
   <a href="https://twitter.com/callam_woolgar"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/channel/UClbKDkIl8Ke-E3FoEKJgyIA"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.youtube.com/channel/UCVe_D9xXXDwXyU2o0_cadxA"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
